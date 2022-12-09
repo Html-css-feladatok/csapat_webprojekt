@@ -6,6 +6,7 @@ Készítsen a saját érdeklődési körének megfelelő statikus weboldalt, ame
 
 ## Lehetséges témakörök: 
   •	sport, 
+  
   •	autók, 
   •	szórakozás, 
   •	munka, 
