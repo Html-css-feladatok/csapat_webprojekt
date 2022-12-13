@@ -38,3 +38,5 @@ Készítsen a saját érdeklődési körének megfelelő statikus weboldalt, ame
 
 A teljes tartalom stíluslappal formázott, lehetőség szerint felhasználja a Bootstrap keretrendszert! A teljes tartalom legyen reszponzív!
 Az elkészült projektet github-ra kell feltölteni.
+
+## A projektmunka leadásának határideje: 2023. január 10. éjfél
